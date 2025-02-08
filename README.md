@@ -14,3 +14,4 @@
           
           EN :
           Problem with the bot? DM me on Discord: kn2xk5lvoa
+            il faut python 3.12.8 !
